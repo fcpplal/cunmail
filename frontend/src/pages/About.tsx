@@ -10,7 +10,7 @@ export function About() {
           </div>
           <div>
             <h2 className="text-xl font-bold gradient-text">CunMail 临时邮箱</h2>
-            <p className="text-xs text-slate-400">by Web3村长 · 保护隐私，拒绝垃圾邮件</p>
+            <p className="text-xs text-slate-400">保护隐私，拒绝垃圾邮件</p>
           </div>
         </div>
 
@@ -71,27 +71,7 @@ export function About() {
             </div>
           </div>
         </div>
-
-        <div className="bg-gradient-to-r from-cyan-500/10 to-blue-500/10 rounded-xl p-4 border border-cyan-500/20">
-          <h3 className="font-semibold text-white mb-2 flex items-center gap-2">
-            <span className="text-cyan-400">👨‍🌾</span> 关于村长
-          </h3>
-          <p className="text-sm text-slate-300 leading-relaxed mb-3">
-            我是 Web3村长，分享 AIGC、互联网科技、跨境工具、网络媒体知识。
-            这个项目是我在原版 vmail 基础上二开的，目的是让更多人能轻松搭建自己的临时邮箱。
-          </p>
-          <a
-            href="https://www.cunzhangblog.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 text-cyan-400 hover:text-cyan-300 text-sm font-medium transition-colors">
-            🌐 去村长博客逛逛
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
-          </a>
-        </div>
-
+       
         <div className="bg-slate-800/30 rounded-xl p-4 border border-slate-700/50">
           <h3 className="font-semibold text-white mb-2 flex items-center gap-2">
             <span className="text-cyan-400">⚠️</span> 合理使用
