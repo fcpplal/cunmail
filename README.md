@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 CunMail - 村长的临时邮箱系统</h1>
+  <h1>🚀 TempMail - 大爷的临时邮箱系统</h1>
   <p>
     <a href="https://www.cunzhangblog.com" target="_blank">村长博客</a> ·
     <a href="#-部署教程">部署教程</a> ·
@@ -240,9 +240,9 @@ pnpm run dev
 
 ## 📚 更多教程
 
-更多技术干货和搭建教程，欢迎来村长博客：
+更多技术干货和搭建教程，欢迎来大爷博客：
 
-🌐 [cunzhangblog.com](https://www.cunzhangblog.com)
+🌐 [cunzhangblog.com](https://blog.118558.xyz)
 
 觉得有用的话，点个 Star 支持一下村长吧！🌟
 
@@ -253,5 +253,5 @@ pnpm run dev
 GNU General Public License v3.0
 
 （原项目：[vmail](https://github.com/oiov/vmail)
-二开作者：web3村长
+二开作者：大爷
 
