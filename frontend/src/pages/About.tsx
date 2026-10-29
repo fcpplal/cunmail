@@ -9,7 +9,7 @@ export function About() {
             </svg>
           </div>
           <div>
-            <h2 className="text-xl font-bold gradient-text">CunMail 临时邮箱</h2>
+            <h2 className="text-xl font-bold gradient-text">大爷 临时邮箱</h2>
             <p className="text-xs text-slate-400">保护隐私，拒绝垃圾邮件</p>
           </div>
         </div>
@@ -19,7 +19,7 @@ export function About() {
             <span className="text-cyan-400">💡</span> 这是什么？
           </h3>
           <p className="text-sm text-slate-300 leading-relaxed">
-            CunMail 是一款免费的临时邮箱服务，不用注册、不用绑手机号，点一下就能生成一个邮箱地址，
+            大爷邮箱 是一款免费的临时邮箱服务，不用注册、不用绑手机号，点一下就能生成一个邮箱地址，
             用来收验证码、注册陌生网站、防垃圾邮件，特别好用。
           </p>
         </div>
