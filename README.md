@@ -1,7 +1,6 @@
 <div align="center">
   <h1>🚀 TempMail - 大爷的临时邮箱系统</h1>
   <p>
-    <a href="https://www.cunzhangblog.com" target="_blank">村长博客</a> ·
     <a href="#-部署教程">部署教程</a> ·
     <a href="#-功能特性">功能特性</a> ·
     <a href="#-常见问题">常见问题</a>
