@@ -460,11 +460,11 @@ export function Home() {
         <InfoModal
           showModal={showPromoModal}
           setShowModal={setShowPromoModal}
-          title="🎉 CunMail & 村长博客">
+          title="🎉 TempMail & 大爷博客">
           <div className="space-y-4 text-gray-200">
             <div className="text-center">
               <p className="text-base font-semibold text-cyan-400 mb-1">
-                跟着村长学搭建
+                跟着大爷学搭建
               </p>
               <p className="text-xs text-gray-400">
                 从零开始，手把手教你搭建自己的工具
@@ -491,11 +491,11 @@ export function Home() {
             </div>
             <div className="pt-2">
               <a
-                href="https://www.cunzhangblog.com"
+                href="https://blog.118558.xyz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center rounded-lg bg-gradient-to-r from-cyan-500 to-blue-600 px-5 py-3 font-bold text-white shadow-lg shadow-cyan-500/30 hover:shadow-cyan-500/50 hover:scale-[1.02] transition-all duration-200">
-                🚀 去村长博客看看
+                🚀 去大爷博客看看
               </a>
             </div>
           </div>
@@ -512,7 +512,7 @@ export function Home() {
                 <span className="text-xs text-cyan-400 font-medium">ONLINE</span>
               </div>
               <h1 className="text-2xl font-bold mb-1">
-                <span className="gradient-text">CunMail</span>
+                <span className="gradient-text">TempMail</span>
               </h1>
               <p className="text-sm text-slate-400 mb-4">
                 {t("Privacy friendly")}
@@ -743,14 +743,14 @@ export function Home() {
           <div className="glass-card p-4 bg-gradient-to-br from-cyan-500/5 to-purple-500/5">
             <div className="flex items-center gap-2 mb-3">
               <span className="text-lg">👨‍🌾</span>
-              <span className="text-sm font-medium text-white">Web3村长</span>
+              <span className="text-sm font-medium text-white">大爷</span>
             </div>
             <p className="text-xs text-slate-400 mb-3">
               专注分享AI工具、互联网效率工具、开源项目和数字生产力方法。
             </p>
             <div className="grid grid-cols-4 gap-2">
               <a
-                href="https://www.cunzhangblog.com"
+                href="https://blog.118558.xyz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex flex-col items-center gap-1 p-2 rounded-lg bg-slate-800/50 hover:bg-slate-700/50 border border-slate-700/50 hover:border-cyan-500/30 transition-all group">

@@ -79,7 +79,7 @@ export function SiteStats() {
           </svg>
         </div>
         <h2 className="text-xl font-bold text-white mb-1">
-          <span className="gradient-text">CunMail</span>
+          <span className="gradient-text">TempMail</span>
         </h2>
         <p className="text-sm text-slate-400">{t("Please create a temporary email address first")}</p>
       </div>

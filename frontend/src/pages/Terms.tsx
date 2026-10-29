@@ -15,7 +15,7 @@ export function Terms() {
         </div>
 
         <p className="text-sm text-slate-300 leading-relaxed">
-          欢迎使用 CunMail！用之前先看看这些条款，都是大白话，不难懂。
+          欢迎使用 TempMail！用之前先看看这些条款，都是大白话，不难懂。
           用了就表示你同意这些条款，不同意就别用。
         </p>
 
@@ -25,7 +25,7 @@ export function Terms() {
               <span className="text-cyan-400">01</span> 服务说明
             </h3>
             <p className="text-sm text-slate-300 leading-relaxed">
-              CunMail 是一个免费的临时邮箱服务，用来保护你的隐私，避免真实邮箱泄露。
+              TempMail 是一个免费的临时邮箱服务，用来保护你的隐私，避免真实邮箱泄露。
               服务基于 Cloudflare 网络构建，速度还可以，但不保证 100% 可用。
             </p>
           </div>
@@ -35,7 +35,7 @@ export function Terms() {
               <span className="text-cyan-400">02</span> 不能干啥
             </h3>
             <p className="text-sm text-slate-300 leading-relaxed mb-2">
-              用 CunMail 干这些事是不行的：
+              用 TempMail 干这些事是不行的：
             </p>
             <ul className="space-y-1.5 text-sm text-slate-300">
               <li className="flex items-start gap-2">
@@ -118,7 +118,7 @@ export function Terms() {
 
         <div className="bg-gradient-to-r from-amber-500/10 to-orange-500/10 rounded-xl p-4 border border-amber-500/20">
           <p className="text-sm text-slate-300">
-            有问题？去 <a href="https://www.cunzhangblog.com" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 underline">村长博客</a> 找我。
+            有问题？去 <a href="https://blog.118558.xyz" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 underline">大爷博客</a> 找我。
           </p>
         </div>
       </div>

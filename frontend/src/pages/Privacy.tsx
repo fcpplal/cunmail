@@ -15,7 +15,7 @@ export function Privacy() {
         </div>
 
         <p className="text-sm text-slate-300 leading-relaxed">
-          在 CunMail，我们非常重视用户的隐私。毕竟做临时邮箱就是为了保护隐私的，
+          在 TempMail，我们非常重视用户的隐私。毕竟做临时邮箱就是为了保护隐私的，
           我们自己肯定不能乱来。这份政策简单说一下我们收集什么、存什么、怎么删。
         </p>
 
@@ -119,7 +119,7 @@ export function Privacy() {
 
         <div className="bg-gradient-to-r from-cyan-500/10 to-blue-500/10 rounded-xl p-4 border border-cyan-500/20">
           <p className="text-sm text-slate-300">
-            有问题？去 <a href="https://www.cunzhangblog.com" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 underline">村长博客</a> 留言就行。
+            有问题？去 <a href="https://blog.118558.xyz" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 underline">大爷博客</a> 留言就行。
           </p>
         </div>
       </div>
