@@ -240,7 +240,7 @@ pnpm run dev
 
 更多技术干货和搭建教程，欢迎来大爷博客：
 
-🌐 [cunzhangblog.com](https://blog.118558.xyz)
+🌐 [大爷博客](https://blog.118558.xyz)
 
 觉得有用的话，点个 Star 支持一下大爷吧！🌟
 
