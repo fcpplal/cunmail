@@ -748,7 +748,7 @@ export function Home() {
             <p className="text-xs text-slate-400 mb-3">
               专注分享AI工具、互联网效率工具、开源项目和数字生产力方法。
             </p>
-            <div className="grid grid-cols-4 gap-2">
+            <div className="grid grid-cols-1 gap-2">
               <a
                 href="https://blog.118558.xyz"
                 target="_blank"
@@ -758,36 +758,6 @@ export function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
                 </svg>
                 <span className="text-[10px] text-slate-400 group-hover:text-cyan-400 transition-colors">博客</span>
-              </a>
-              <a
-                href="https://space.bilibili.com/1224034462"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex flex-col items-center gap-1 p-2 rounded-lg bg-slate-800/50 hover:bg-slate-700/50 border border-slate-700/50 hover:border-pink-500/30 transition-all group">
-                <svg className="w-4 h-4 text-slate-400 group-hover:text-pink-400 transition-colors" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.769-.556-3.773-1.56S.036 18.858 0 17.347v-7.36c.036-1.511.556-2.765 1.56-3.76 1.004-.996 2.262-1.52 3.773-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.573-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.765-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.947.258-.257.574-.386.947-.386zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.249.56-.373.933-.373z"/>
-                </svg>
-                <span className="text-[10px] text-slate-400 group-hover:text-pink-400 transition-colors">B站</span>
-              </a>
-              <a
-                href="https://www.youtube.com/@cunzhanglab"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex flex-col items-center gap-1 p-2 rounded-lg bg-slate-800/50 hover:bg-slate-700/50 border border-slate-700/50 hover:border-red-500/30 transition-all group">
-                <svg className="w-4 h-4 text-slate-400 group-hover:text-red-400 transition-colors" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
-                </svg>
-                <span className="text-[10px] text-slate-400 group-hover:text-red-400 transition-colors">油管</span>
-              </a>
-              <a
-                href="https://t.me/cunzhanglab"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex flex-col items-center gap-1 p-2 rounded-lg bg-slate-800/50 hover:bg-slate-700/50 border border-slate-700/50 hover:border-sky-500/30 transition-all group">
-                <svg className="w-4 h-4 text-slate-400 group-hover:text-sky-400 transition-colors" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.127.087.775.163 1.394.226 1.864.468 3.877.468 3.877.057.377.088.566.089.742a1.17 1.17 0 0 1-.033.297c-.037.14-.14.26-.256.308-.199.082-.45.028-.627-.028-.206-.065-1.169-.457-1.67-.61a.355.355 0 0 0-.137-.014c-.076.009-.152.058-.243.14-.542.49-.746.74-1.01.994a.55.55 0 0 1-.184.127c-.153.064-.327.027-.434-.02-.275-.12-.434-.454-.523-.717-.1-.294-.365-1.184-.535-1.784-.057-.2-.103-.364-.104-.396-.004-.055.01-.089.037-.117.033-.033.079-.043.128-.043l.01-.002c.127-.01.249-.003.373.037.584.187 2.033.695 2.184.74.113.033.225.058.319.013a.392.392 0 0 0 .166-.13c.088-.112.08-.263.066-.357-.019-.117-.444-1.76-.64-2.46-.096-.344-.178-.627-.178-.66 0-.004-.003-.01-.003-.018-.003-.067.024-.12.092-.168.145-.102.326-.128.488-.138.226-.014.399-.01.563-.006z"/>
-                </svg>
-                <span className="text-[10px] text-slate-400 group-hover:text-sky-400 transition-colors">电报</span>
               </a>
             </div>
           </div>
