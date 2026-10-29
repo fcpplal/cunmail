@@ -21,9 +21,9 @@ function CunMailLogo() {
       </div>
       <div className="flex flex-col leading-tight">
         <span className="text-lg font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-          CunMail
+          TempMail
         </span>
-        <span className="text-[10px] text-slate-500 tracking-wider">BY WEB3村长</span>
+        <span className="text-[10px] text-slate-500 tracking-wider">BY 大爷</span>
       </div>
     </div>
   );
@@ -73,7 +73,7 @@ export function Header() {
 
             <nav className="flex items-center gap-1 md:gap-2">
               <a
-                href="https://www.cunzhangblog.com"
+                href="https://blog.118558.xyz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden md:flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm text-slate-400 hover:text-cyan-400 hover:bg-slate-800/50 transition-all">
@@ -117,7 +117,7 @@ export function Header() {
               </div>
 
               <a
-                href="https://github.com/cunzhangcrypto/cunmail"
+                href="https://github.com/fcpplal/cunmail"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm text-slate-300 bg-slate-800/50 border border-slate-700/50 hover:border-cyan-500/30 hover:text-cyan-400 transition-all">

@@ -15,22 +15,22 @@ export function Footer() {
             </div>
             <div>
               <div className="text-base font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-                CunMail
+                TempMail
               </div>
-              <div className="text-xs text-slate-500">by Web3村长</div>
+              <div className="text-xs text-slate-500">by 大爷</div>
             </div>
           </div>
 
           <div className="flex items-center gap-6 text-sm">
             <a
-              href="https://www.cunzhangblog.com"
+              href="https://blog.118558.xyz"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-cyan-400 transition-colors">
-              🌐 村长博客
+              🌐 大爷博客
             </a>
             <a
-              href="https://github.com/cunzhangcrypto/cunmail"
+              href="https://github.com/fcpplal/cunmail"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-cyan-400 transition-colors">
@@ -39,7 +39,7 @@ export function Footer() {
           </div>
 
           <p className="text-xs text-slate-500">
-            © {new Date().getFullYear()} CunMail · Open Source
+            © {new Date().getFullYear()} TempMail · Open Source
           </p>
         </div>
       </div>

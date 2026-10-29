@@ -1,6 +1,6 @@
 {
-  "Donate": "支持村长",
-  "Virtual Temporary Email": "CunMail 临时邮箱",
+  "Donate": "支持大爷",
+  "Virtual Temporary Email": "TempMail 临时邮箱",
   "Privacy friendly": "保护隐私，拒绝垃圾邮件",
   "Valid for 1 Day": "有效期 24 小时",
   "AD friendly": "多域名后缀支持",
@@ -63,7 +63,7 @@
   "New email arrived": "收到新邮件啦",
   "From": "发件人",
   "Subject": "主题",
-  "Blog": "村长博客",
+  "Blog": "大爷博客",
   "Emails deleted": "已删除",
   "Deletion failed": "删除失败",
   "Close": "关闭",
